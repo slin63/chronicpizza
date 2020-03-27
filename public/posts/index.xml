@@ -2,22 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on chronicpizza</title>
-    <link>http://example.org/posts/</link>
+    <link>/posts/</link>
     <description>Recent content in Posts on chronicpizza</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Mar 2020 17:22:37 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2020 11:47:15 -0500</lastBuildDate>
     
-	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>My First Post</title>
-      <link>http://example.org/posts/my-first-post/</link>
-      <pubDate>Sat, 14 Mar 2020 17:22:37 -0500</pubDate>
+      <title>Chord-ish: Implementing a Simple Membership Protocol</title>
+      <link>/posts/chordish/</link>
+      <pubDate>Fri, 27 Mar 2020 11:47:15 -0500</pubDate>
       
-      <guid>http://example.org/posts/my-first-post/</guid>
-      <description></description>
+      <guid>/posts/chordish/</guid>
+      <description>Chord-ish: Why and How A play implementation of the Chord protocol as described in this paper for use as the membership and failure detection layers for Chord-ish DeFiSh.
+Membership &amp;amp; Failure Detection In any distributed system there needs to be some way of knowing what other nodes (machines / processes) are members within a group. A membership layer achieves that by implementing some protocol that provides a consistent view of memberships within that group, thereby allowing nodes to discover and communicate with one another.</description>
     </item>
     
   </channel>

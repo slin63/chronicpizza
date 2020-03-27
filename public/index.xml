@@ -12,12 +12,23 @@
     
     
     <item>
-      <title>About</title>
+      <title>Chord-ish: Implementing a Simple Membership Protocol</title>
+      <link>/posts/chordish/</link>
+      <pubDate>Fri, 27 Mar 2020 11:47:15 -0500</pubDate>
+      
+      <guid>/posts/chordish/</guid>
+      <description>Chord-ish: Why and How A play implementation of the Chord protocol as described in this paper for use as the membership and failure detection layers for Chord-ish DeFiSh.
+Membership &amp;amp; Failure Detection In any distributed system there needs to be some way of knowing what other nodes (machines / processes) are members within a group. A membership layer achieves that by implementing some protocol that provides a consistent view of memberships within that group, thereby allowing nodes to discover and communicate with one another.</description>
+    </item>
+    
+    <item>
+      <title>Welcome friends, enemies</title>
       <link>/about/</link>
       <pubDate>Sat, 14 Mar 2020 20:26:40 -0500</pubDate>
       
       <guid>/about/</guid>
-      <description></description>
+      <description>This website is about
+ things that I&amp;rsquo;m building chronic pain that I am experiencing things that I really like, such as nature  That&amp;rsquo;s it.</description>
     </item>
     
   </channel>

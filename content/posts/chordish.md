@@ -4,9 +4,9 @@ date: 2020-03-27T11:47:15-05:00
 draft: false
 ---
 
-# ![](/images/chordish/chord.png) Chord-ish: Why and How
+### ![](/images/chordish/chord.png)
 
-A play implementation of the Chord protocol as described in [this paper](https://pdos.csail.mit.edu/papers/ton:chord/paper-ton.pdf) for use as the membership and failure detection layers for [*Chord-ish DeFiSh*](https://github.com/slin63/chord-dfs).
+Chord-ish is a play implementation of the Chord protocol as described in [this paper](https://pdos.csail.mit.edu/papers/ton:chord/paper-ton.pdf) for use as the membership and failure detection layers for [*Chord-ish DeFiSh*](https://github.com/slin63/chord-dfs). In this post we'll talk some about how it works, and why it is the way that it is.
 
 ### Membership & Failure Detection
 

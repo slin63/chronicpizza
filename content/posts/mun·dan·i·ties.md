@@ -3,19 +3,17 @@ title: "📷 • mun·dan·i·ties"
 date: 2020-03-22T16:32:09-05:00
 draft: false
 ---
-*the condition or quality of being mundane; common; ordinary; banal; unimaginative.*
+{{% focusText %}} the condition or quality of being mundane; common; ordinary; banal; unimaginative. {{% /focusText %}}
 
-Mundaneness is one of my favorite photographic subjects. Maybe because I've lived in such a mundane place for so long. Nothing grabs me more than a scene of a place that is empty, boring, unassuming. Places with few people, few things. Places that can be left and returned to many months later without much having changed besides the person returning to them.
+Mundaneness is one of my favorite photographic subjects. Nothing grabs me more than a scene of a place that is empty, boring, unassuming. Places with few people, few things. Places that can be left and returned to many months later without much having changed besides the person returning to them.
 
-I once thought these subjects depressing, but now view them as reliable constants in an ever changing world. They are true, well-known, ubiquitous. These qualities give to them a magic that is lacking in photography of things beautiful and novel. Many can look at these subjects and have feelings that are a subset of some of the following:
+I once thought these subjects depressing, but now view them as reliable constants in an ever changing world. They are true, well-known, ubiquitous. These qualities give to them a magic that is lacking in things beautiful and novel. Many can look at these subjects and have feelings that are a subset of some of the following:
 - disinterest
 - coldness
 - detachment
 - boredom
 
-With the pandemic closing everything, now is a better time than ever to get photos like this.
-
-Here are some really mundane images of mundane places.
+With the pandemic closing everything, now is a better time than ever to get photos like this. With that having been said, here are some really mundane images of mundane places.
 
 
 ![](/images/mundanities/8.jpg)

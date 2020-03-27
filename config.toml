@@ -3,15 +3,15 @@ languageCode = "en-us"
 title = "chronicpizza"
 theme = "simple"
 
- [[menu.main]]
-  name = "home"
-  url  = "/"
-  weight = 0
+[[menu.main]]
+name = "home"
+url  = "/"
+weight = 0
 
- [[menu.main]]
-  name = "about me"
-  url  = "/about"
-  weight = 5
+[[menu.main]]
+name = "about me"
+url  = "/about"
+weight = 5
 
 [params]
 subtitle = "tech, nature, chronic pain"
@@ -19,3 +19,20 @@ favicon = "/images/favico.png"
 referrer = "always"
 author = "chronic pizza"
 description = "pizza pizza"
+
+[markup]
+  defaultMarkdownHandler = "goldmark"
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ""
+    lineNoStart = 1
+    lineNos = true
+    lineNumbersInTable = false
+    noClasses = true
+    style = "friendly"
+    tabWidth = 4
+  [markup.tableOfContents]
+    endLevel = 3
+    ordered = false
+    startLevel = 2

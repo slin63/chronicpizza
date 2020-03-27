@@ -1,7 +1,11 @@
 ---
-title: "Bye, Board!"
+title: "👋 • goodbye, OAC executive board"
 date: 2020-02-14T12:53:31-05:00
 draft: false
+---
+
+*Context: This is a letter I wrote to my outdoors club executive board while sleep deprived flying away from where my outdoors club executive board is located, in Urbana, IL.*
+
 ---
 
 I believe the story that I’m about to tell is one that everyone reading this already knows, because they have experienced it or are now in the middle of experiencing it themselves, and that many will have shared the memories I’m going to list with me or have memories and feelings that are not too different from mine. I’ll leave some of the details sparse; I know that many of you can use your own experiences to fill in the blanks.
@@ -103,7 +107,7 @@ Liza is kidding. Everyone’s fine. I meet Liza.
 She interviews for the board. She gets on the board. I love Liza now.
 
 
-# 2018 Spring: Garden of the Gods backpacking
+# *2018 Spring: Garden of the Gods backpacking*
 
 I pack in a double bottle of wine. Gaurav makes a pizza.
 
@@ -114,7 +118,7 @@ Me and John talk existentialism on the rocks at Indian Point. We lay on our back
 I drop some summer sausage on the ground and eat it. So does someone else.
 
 
-# 2018 Spring Break: Big ~~Balls~~ Bend Backpacking
+# *2018 Spring Break: Big* ~~*Balls*~~ *Bend Backpacking*
 
 Me Sam and Noah drive to Big Bend. Juhi and Emily hit a deer on the way up (and later a mattress) and are the first in human history to encounter _deerman._We talk about deerman under the light of the Milky Way, the dark sky at Big Bend being more brilliant than any other that I’d seen before.
 
@@ -155,7 +159,7 @@ Wake up early and hear AJ find out he’s thrown up in his tent. John is up too.
 Me and John meet Ed. He tells us about Logan and how he’s the quartermaster. He explains to us what a quartermaster is. Me and John take it quietly and laugh about it later. I love Ed now.
 
 
-# 2018 Summer: Mark Twain National Forest backpacking
+# *2018 Summer: Mark Twain National Forest backpacking*
 
 Me and Gaurav arrive at night and sit at the waterfall in the dark. It’s early Summer and warm. The sound of rushing water is accompanied by the blinking of thousands of fireflies over the river.
 
@@ -166,7 +170,7 @@ We finish the trail and go to swim in the river. Small fish nip at our toes and 
 We go to St. Louis for food on the way back. We find more ticks.
 
 
-# 2018 Summer: Acadia & New England & California
+# *2018 Summer: Acadia & New England & California*
 
 I’m with a girl that I’m very in love with. We hike for a week and trip acid in Acadia and New England. I’m happy, and so is she.
 
@@ -177,7 +181,7 @@ It’s one of the backpacking tents.
 Gaurav steals my itinerary for the Summer OAC Acadia trip.
 
 
-# 2018 - 2019 A long time
+# *2018 - 2019 A long time*
 
 My knees are shot.
 
@@ -188,7 +192,7 @@ It takes me a very long time to get the proper surgery and treatment. I have ano
 **[The Pizza Stands For Pain](https://chronicpizza.wordpress.com/2020/01/01/the-pizza-stands-for-pain/)**
 
 
-# 2019 Summer: North Manitou Island backpacking
+# *2019 Summer: North Manitou Island backpacking*
 
 Plans to go to the Grand Tetons fall through.
 
@@ -207,7 +211,7 @@ The stars and moon come out. They’re reflected perfectly in Lake Michigan, sti
 My knees work.
 
 
-# 2019 Summer: Wind River Range backpacking
+# *2019 Summer: Wind River Range backpacking*
 
 Me, Ed, Emily, and Juhi drive all the way to Wyoming. I have conditioned them to be terrified of bears.
 
@@ -220,7 +224,7 @@ We backpack to our site at Dad’s Lake. The water is clear and cold, we are exc
 Everyone naps and I write this journal entry:
 
 
-    Set up camp at Dad’s Lake in Wind River Range Wyoming with Ed Emily juhi, this is the most beautiful place I’ve ever been and today and tonight it’ll just be mine and my friends’ to share, isn’t that great?, the walls of the mountains are like color echo chambers, this place completely changes colors and look whenever a cloud moves slightly towards or away from the sun
+> Set up camp at Dad’s Lake in Wind River Range Wyoming with Ed Emily juhi, this is the most beautiful place I’ve ever been and today and tonight it’ll just be mine and my friends’ to share, isn’t that great?, the walls of the mountains are like color echo chambers, this place completely changes colors and look whenever a cloud moves slightly towards or away from the sun
 
 I cry a little and can’t stop looking at the world around me. It really is perfect.
 
@@ -253,7 +257,7 @@ Estes Park Colorado. We plan to go up to the Rockies but there’s an entrance f
 Emily’s lungs are squeaking. I tell her to stop breathing. We find out later that she has bronchitis.
 
 
-# 2019 Summer Madison Volunteering Trip
+# *2019 Summer Madison Volunteering Trip*
 
 Me, Arkin, Dev, and Adi meet up with Liza in Madison. We walk around, some girl flashes Arkin from her apartment window. Arkin likes it, I think.
 
@@ -268,7 +272,7 @@ We wake up and head to the dock to swim. I am excited to swim. I don’t swim be
 Liza did some cartwheels at some point on this trip, probably.
 
 
-# 2019 Indiana Dunes Trip
+# *2019 Indiana Dunes Trip*
 
 Drive to pick up Nick with Emily and Juhi. Nick gives us amazing grilled cheeses and we eat them.
 
@@ -277,7 +281,7 @@ Indiana Dunes has recently been promoted to a national park. We drive towards th
 People are honking. We spend hours looking for parking. What would otherwise be a wasted day is made into a sitcom episode by the friends that I’m with. It’s fun.
 
 
-# 2019 Manistee Backpacking Trip
+# *2019 Manistee Backpacking Trip*
 
 We drive to the trailhead and meet the rest of the group. Me and Charley joke that we’re going to eat them.
 
@@ -288,7 +292,7 @@ Liza tells me about how Manistee feels like home. I agree with her. Liza does so
 Kunal is so drunk that he can’t stand. We all sit around the fire and wait for night to come over us. I drink Charley’s whiskey, because I really like whiskey. We talk about Germany, having kids, everything else. The dew rolls in from the nearby river and we all get a little wet.
 
 
-# 2019 Fall Break Cayo Costa
+# *2019 Fall Break Cayo Costa*
 
 Kunal and me drive over fog covered mountain tops and long empty stretches of road to Florida and talk the whole way. My driver side window explodes on the highway.
 

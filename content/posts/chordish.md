@@ -28,7 +28,7 @@ Let's begin!
 
 First, some definitions and context.
 
-*Consistent hashing* is the process by which a hash function is used to distribute *K* objects across *N* points on a virtual ring, where *N = 2<sup>m</sup> - 1*. Here, *m* is an arbitrary constant that can be made larger or smaller, correlating directly with the expected number of nodes that the protocol will be supporting.
+*Consistent hashing* is the process by which a hash function is used to distribute *K* objects across *N* points on a virtual ring, where N = 2^m - 1. Here, *m* is an arbitrary constant that can be made larger or smaller, correlating directly with the expected number of nodes that the protocol will be supporting.
 
 Why is this useful? Let's say that we have a distributed key/value store that assigns server positions and key/value assignments as follows:
 
@@ -39,7 +39,7 @@ assignedServer := hash(key) % (Number of servers)
 
 Servers and key/value pairs are still evenly distributed here, yes, but if the number of servers is ever changed for something like a horizontal up or downscale, downtime is needed to rehash nodes and key/value pairs on to newly evaluated `assignedPoints` and `assignedServers`. Consistent hashing assigns inputs to points using a function that is independent of the total number of nodes within a group, meaning we can scale up or down without needing downtime to rehash.
 
-Chord-ish works by using a *consistent hashing* function to assign the IP addresses (or any unique identifier) of an arbitrary number of nodes onto a virtual ring with 2<sup>m</sup> - 1 points. Consistent hashing ideally distributes all nodes evenly across the ring, which leads to some built-in load-balancing which can be useful when using Chord-ish's node's as key/value stores, as we do in Chord-ish DeFiSh.
+Chord-ish works by using a *consistent hashing* function to assign the IP addresses (or any unique identifier) of an arbitrary number of nodes onto a virtual ring with 2^m - 1 points. Consistent hashing ideally distributes all nodes evenly across the ring, which leads to some built-in load-balancing which can be useful when using Chord-ish's node's as key/value stores, as we do in Chord-ish DeFiSh.
 
 Chord-ish's consistent hashing function is implemented in `/internal/hashing`.
 
@@ -66,8 +66,8 @@ func MHash(address string, m int) int {
 After a node is assigned onto the ring, it generates a *finger table*. Finger tables are Chord-ish's routing tables, key/value maps of length *m* where the corresponding keys and values are as follows:
 
 - `key = some integer i ranging from (0, m)`
-- `value = (first node with PID >= (currentNode.PID + 2**(i - 1)) % (2**m))` where `a**b` = *a<sup>b</sup>*.
-  - The ` … % (2 ** m)` is important here. If some calculated value exceeds 2<sup>m</sup>-1, then this modulo "wraps" the calculated value back around the ring. For an example, look at the visualization of the finger table calculations (the blue arrows) in the figure below.
+- `value = (first node with PID >= (currentNode.PID + 2**(i - 1)) % (2**m))` where `a**b` = *a^b*.
+  - The ` … % (2 ** m)` is important here. If some calculated value exceeds 2^m-1, then this modulo "wraps" the calculated value back around the ring. For an example, look at the visualization of the finger table calculations (the blue arrows) in the figure below.
 
 Finger tables are used in canonical Chord to enable *O(log n)* lookups from node to node, but because Chord-ish won't actually be doing any storing of its own, finger tables here are only used to disseminate heartbeat and graceful termination messages. Doesn't that defeat the purpose of going through all the trouble of implementing Chord? Haha! Yes. No one's paying me to do this so I can do a bad job if I want. Not that I wouldn't do a bad job if someone was paying me, either.
 

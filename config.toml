@@ -1,19 +1,21 @@
 baseURL = "/"
 languageCode = "en-us"
 title = "chronicpizza"
-theme = "ananke"
+theme = "simple"
 
  [[menu.main]]
-  name = "Home"
+  name = "home"
   url  = "/"
   weight = 0
 
  [[menu.main]]
-  name = "About"
-  url  = "about"
+  name = "about me"
+  url  = "/about"
   weight = 5
 
- [[menu.main]]
-  name = "Blog"
-  url  = "post/"
-  weight = 10
+[params]
+subtitle = "tech, nature, chronic pain"
+favicon = "/images/favico.png"
+referrer = "always"
+author = "chronic pizza"
+description = "pizza pizza"

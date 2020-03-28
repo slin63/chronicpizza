@@ -13,34 +13,33 @@ I once thought these subjects depressing, but now view them as reliable constant
 - detachment
 - boredom
 
-With the pandemic closing everything, now is a better time than ever to get photos like this. With that having been said, here are some really mundane images of mundane places.
+With the pandemic closing everything, now is a better time than ever to get photos like this. That having been said, here are some really mundane images of mundane places.
 
-
-![](/images/mundanities/8.jpg)
+{{% imagelink %}}/images/mundanities/8.jpg{{% /imagelink %}}
 {{% caption %}} a library. {{% /caption %}}
 {{% newline %}}
 
-![](/images/mundanities/9.jpg)
+{{% imagelink %}}/images/mundanities/9.jpg{{% /imagelink %}}
 {{% caption %}} a parking garage. {{% /caption %}}
 {{% newline %}}
 
-![](/images/mundanities/3.jpg)
+{{% imagelink %}}/images/mundanities/3.jpg{{% /imagelink %}}
 {{% caption %}} an empty school. {{% /caption %}}
 {{% newline %}}
 
-![](/images/mundanities/5.jpg)
+{{% imagelink %}}/images/mundanities/5.jpg{{% /imagelink %}}
 {{% caption %}} an illuminated building in a public park. {{% /caption %}}
 {{% newline %}}
 
-![](/images/mundanities/6.jpg)
+{{% imagelink %}}/images/mundanities/6.jpg{{% /imagelink %}}
 {{% caption %}} an open road. {{% /caption %}}
 {{% newline %}}
 
-![](/images/mundanities/1.jpg)
+{{% imagelink %}}/images/mundanities/1.jpg{{% /imagelink %}}
 {{% caption %}} a closed road. {{% /caption %}}
 {{% newline %}}
 
-![](/images/mundanities/7.jpg)
+{{% imagelink %}}/images/mundanities/7.jpg{{% /imagelink %}}
 {{% caption %}} a parking lot. {{% /caption %}}
 
 was any of that familiar?

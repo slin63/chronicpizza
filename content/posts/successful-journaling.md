@@ -60,9 +60,11 @@ Sometimes, in the surrounding cells, I quickly jotted down confusing notes, name
 
 {{% focusText %}} It mirrors life far better than any all-in journal could.{{% /focusText %}}
 
+What I'm saying isn't anything that's too surprising: when journaling is very easy you will end up doing it more.
+
 ## Takeaways
 
-Don't listen to what anybody says. Except for me. Let a journal be a totally free thing, and avoid consistency, verbosity, and structure where possible. Take from my structure, or make something totally your own. I don't care! Just journal. Or don't!
+Don't listen to what anybody says. Except for me. Listen to me. Let a journal be a totally free thing, and avoid consistency, verbosity, and structure where possible. Take from my structure, or make something totally your own. I don't care! Just journal. Or don't!
 
 ---
 

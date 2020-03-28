@@ -1,6 +1,6 @@
 ---
 title: "📝 • the problem with all-in journaling"
-date: 2020-03-27T20:28:33-05:00
+date: 2020-03-28T20:28:33-05:00
 draft: false
 ---
 

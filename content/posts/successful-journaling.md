@@ -58,7 +58,7 @@ After those two months, the entries start to trickle back in. While many days ar
 
 Sometimes, in the surrounding cells, I quickly jotted down confusing notes, names of songs, dreams I've had. It is chaotic. Many entries remind me of beautiful memories. Many entries are complete nonsense.
 
-{{% focusText %}} It mirrors life far better than any all-in journal could.{{% /focusText %}}
+{{% focusText %}}It mirrors life far better than any all-in journal could.{{% /focusText %}}
 
 What I'm saying isn't anything that's too surprising: when journaling is very easy you will end up doing it more.
 

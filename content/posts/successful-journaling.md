@@ -4,11 +4,11 @@ date: 2020-03-28T20:28:33-05:00
 draft: false
 ---
 
-## Journaling's Value
+## *journaling's value*
 
 Journaling is wonderful. It is a continuous log of your life, of the things you value and your experiences, big and small. Of memories that you may have forgotten otherwise. It helps you better put current events into perspective, and to recognize trends, harmful or good. It is a sincere conversation that you can have with yourself whenever you wish. Journaling is wonderful. The only problem is: a lot of people who start journaling end up stopping.
 
-## Journaling Is Flawed
+## *journaling is flawed*
 
 Like gym memberships, many people hop on at the start of the year and slowly fall off as time moves on. Many are inspired by posts online about starting daily journals that contain some of the following information for each day:
 
@@ -24,7 +24,7 @@ This type of journaling encourages something I'll call *"all-in journaling"*. Al
 
 You might think that these people are stopping because they don't have the time. But how much time does it actually take to write a journal entry? Depending on the type of all-in journal, not very much. Maybe 2 - 5 minutes at most for an uneventful day. So why do people stop? *Because they don't like that they've failed.*
 
-## The Demands of All-in Journaling
+## *the demands of all-in journaling*
 
 People feel like they've failed the all-in journal for the same reason people feel like they fail diets, good habits, or exercise routines. Because they see in those things these three essential demands for "success":
 
@@ -36,7 +36,7 @@ Whether or not people realize it, an all-in journal is a sort of challenge. A te
 
 I failed numerous times after trying to start journals at the start of numerous previous years. I'm not going to pretend that I'm not like all the people that I just described. I believe that a problem like this isn't a problem with the individual, but with the design of the system itself. I'm not a fan of all-in journaling.
 
-## Enter, Free Journaling
+## *enter, free journaling*
 
 At the start of 2019 I began a new type of journal. I give up the satisfaction of pen on paper in exchange for an online spreadsheet with a column for the date, one for a rating out of seven, and a final column for notes. The journal had only one rule:
 
@@ -62,13 +62,13 @@ Sometimes, in the surrounding cells, I quickly jotted down confusing notes, name
 
 What I'm saying isn't anything that's too surprising: when journaling is very easy you will end up doing it more.
 
-## Takeaways
+## *takeaways*
 
 Don't listen to what anybody says. Except for me. Listen to me. Let a journal be a totally free thing, and avoid consistency, verbosity, and structure where possible. Take from my structure, or make something totally your own. I don't care! Just journal. Or don't!
 
 ---
 
-## Numbers & Fun things
+## *numbers & fun things*
 
 Now for my favorite part. A fully digital and searchable summary of my year. Curious about how much time I spent with a person exactly? Easy! Just ctrl-f and count the references. Curious about how depressed I got when I lost most of my mobility? When I regained some of it? Do a little math! It's all there.
 {{% newline %}}

@@ -4,7 +4,6 @@ date: 2020-03-22T16:32:09-05:00
 draft: false
 ---
 {{% focusText %}} the condition or quality of being mundane; common; ordinary; banal; unimaginative. {{% /focusText %}}
-
 Mundaneness is one of my favorite photographic subjects. Nothing grabs me more than a scene of a place that is empty, boring, unassuming. Places with few people, few things. Places that can be left and returned to many months later without much having changed besides the person returning to them.
 
 I once thought these subjects depressing, but now view them as reliable constants in an ever changing world. They are true, well-known, ubiquitous. These qualities give to them a magic that is lacking in things beautiful and novel. Many can look at these subjects and have feelings that are a subset of some of the following:

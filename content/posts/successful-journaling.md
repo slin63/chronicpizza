@@ -40,7 +40,7 @@ I failed numerous times after trying to start journals at the start of numerous 
 
 At the start of 2019 I began a new type of journal. I give up the satisfaction of pen on paper in exchange for an online spreadsheet with a column for the date, one for a rating out of seven, and a final column for notes. The journal had only one rule:
 
-{{% focusText %}} Do not to create any expectation of consistency, verbosity, or structure. Consistency, verbosity, or structure themselves are still allowed, but you must let them go if they happen to start slipping. {{% /focusText %}}
+{{% focusText %}} Do not create any expectation of consistency, verbosity, or structure. Consistency, verbosity, or structure themselves are still allowed, but you must let them go if they happen to start slipping. {{% /focusText %}}
 
 Building up from this generalization, we derive more concrete "rules."
 - Days can have a rating from 0 to 7. There is no standard for what a 0 or a 7 is like.

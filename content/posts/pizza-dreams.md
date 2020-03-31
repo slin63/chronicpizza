@@ -28,7 +28,7 @@ At first, this loss was insufferable. The first year after the accident was one 
 - my heart racing at 200 BPM, pushing blood, adrenaline, and road gunk through my veins as I pedal hard to the finish so that the rider behind me doesn't take my place.
 - running to music that I love, sliding through crowds and feeling light as a feather as I sprint through my school campus on a busy day.
 - being deliriously hungry after a day of riding, unable to stop laughing at the idea of delivery cinnamon sticks in butter all the while stuffing them into my mouth like a fish gasping for air.
-- watching the sunset over rural Wisconsin fields at the end of a 112-mile day on my bike tour around Lake Michigan
+- watching the sunset over rural Wisconsin fields at the end of a 112-mile day on my bike tour around Lake Michigan.
 
 All of this, under the influence of pure dopamine bliss; exercise-induced pure mindlessness and euphoria.
 

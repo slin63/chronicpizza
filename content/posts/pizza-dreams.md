@@ -1,7 +1,7 @@
 ---
 title: "💭 • on the value of dreams & chronic pain"
-date: 2020-03-31T19:35:10-05:00
-draft: true
+date: 2020-03-30T19:35:10-05:00
+draft: false
 ---
 
 ## *brooklyn*
@@ -41,15 +41,9 @@ They started coming slowly, then in bursts. The dreams I described earlier, plac
 
 The happiness that I experience in these dreams is the same happiness that I once got from physical freedom and mobility. That's why I love these types of dreams.
 
-I once told this to a friend and they reacted with empathy and an apology; understandable, because pain is a difficult topic for many and empathy is often wanted by those that experience it. I interpreted their reaction as them seeing my love of these dreams as being a type of sad ideation; a longing for something that I can no longer have. I thought for a while that they might be right. That the joy that I get from these dreams is undeserved, a relic of the past, and should be put away. But now I think that that couldn't be further from the truth.
+I once told this to a friend and they reacted with empathy and an apology. Understandable, because pain is a difficult topic for many and empathy is often wanted by those that experience it. I interpreted their reaction as them seeing my love of these dreams as being a type of sad ideation; a longing for something that I can no longer have. I thought for a while that they might be right. That the joy that I get from these dreams is undeserved, a relic of the past, and should be put away. But now I think that that couldn't be further from the truth.
 
-Reality and dreams are often indistinguishable. Dreams often require active effort for many people to lift the veil and realize that they're dreaming. Why should the pleasure that I get from dreaming of a good jog be worth any less than the pleasure that someone gets from going on an "actual" jog? Is my elation from summiting a mountain in a surreal landscape of ice and floating rock any different from the elation of someone who's just made it to the summit of a good hike?
+Reality and dreams are often indistinguishable. Dreams often require active effort for many people to lift the veil and realize that they're dreaming. Why should the pleasure that I get from dreaming of a good jog be worth any less than the pleasure that someone gets from going on an "actual" jog? Is my elation from summiting a mountain in a surreal landscape of ice and floating rock any different from the elation of someone who's just made it to the summit of a "real" hike?
 
 That joy is the product of no sad ideation, but the joy of recognizing the pleasure that our bodies can bring to us. That joy is my brain dropping in to remind me that to be alive is to feel good; to make sure that I don't forget the feeling.
-
-
-
-
-
-
 

@@ -1,6 +1,6 @@
 ---
-title: "🔌 • consensus: a beautiful problem"
-date: 2020-03-30T20:33:04-05:00
+title: "🔌 • consensus: a beautiful problem in distributed systems"
+date: 2020-04-01T12:33:04-05:00
 draft: true
 ---
 
@@ -36,7 +36,7 @@ Finally, despite all the setbacks and an incredible amount of network downtime, 
 
 This is consensus.
 
-So now that you have a feel for what the consensus problem is and how hairy it can become, let's talk about why it's so interesting.
+So now that you have a feel for what the consensus problem is and how hairy it can become, let's talk about why it's so important.
 
 ## Consensus is Fundamental
 
@@ -53,7 +53,7 @@ With so many great minds in the field of distributed computing, consensus must h
 
 ## Consensus is Impossible
 
-Surprise! Formally proven in [Impossibility of Distributed Consensus with One Faulty Process (FLP)](https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf), consensus, although possible to achieve in *synchronous* systems, is impossible in an *asynchronous* system. The paper describes consensus as the following:
+Surprise! Formally proven in *[Impossibility of Distributed Consensus with One Faulty Process](https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf)*, consensus, although possible to achieve in *synchronous* systems, is impossible in an *asynchronous* system. The paper describes consensus as the following:
 
 > an asynchronous system of [unreliable] processes . . . [trying] to agree on a binary value (0 or 1). Every protocol for this problem has the possibility of nontermination, even with only one faulty process.
 
@@ -77,6 +77,22 @@ But it's okay, don't worry.
 
 ## Most Protocols Are Good Enough
 
-Although solving the formal problem of consensus in asynchronous systems is impossible, there exist plenty of protocols that guarantee *safety* with high probability. Safety here meaning that the system will never return an incorrect value. While developing and implementing consensus protocols is still no small feat, many protocols exist in the wild and are attached to names you might find [very familiar](https://en.wikipedia.org/wiki/Consensus_(computer_science)#Some_consensus_protocols).
+Although solving the formal problem of consensus in asynchronous systems is impossible, many protocols exist in the wild and are attached to names you might find [very familiar](https://en.wikipedia.org/wiki/Consensus_(computer_science)#Some_consensus_protocols). You might ask: "but isn't it literally impossible? How are there so many solutions"? Well, simply put, most solutions are adequate.
 
-One of these protocols is Raft. In a future article I'll talk about Raft, my implementation of it, and its utility as the consensus layer for Chord DeFiSh.
+These adequate solutions provide consensus to distributed systems with high probability, but cannot guarantee it. Most practical solutions that provide consensus with high probability satisfy the following requirements:
+
+- *Safety*: servers never return an incorrect result, under non-[Byzantine failures](https://en.wikipedia.org/wiki/Byzantine_fault).
+- *Availability*: servers always respond to a request as long as the majority of servers are operational and capable of communicating with each other and clients.
+- *Timing Independent*: the protocol does not depend on timing to ensure consistency in the flow of data for each server.
+
+Now we understand the problem of consensus, its impossibility, and the requirements for a practical real-world solution. Next is to begin talking about one of these real world solutions, [Raft](https://pdos.csail.mit.edu/6.824/papers/raft-extended.pdf), and how I utilized it as the consensus layer for [Chordish DeFiSh](https://github.com/slin63/chord-dfs).
+
+Stay tuned for more!
+
+{{% sources %}}
+
+###### *sources*
+
+1. Indranil Gupta (Indy), UIUC CS425, [Lecture A: The Consensus Problem](https://courses.engr.illinois.edu/cs425/fa2018/L14.C3.FA18.pdf)
+1. Fischer et. al., [Impossibility of Distributed Consensus with One Faulty Process](https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf)
+2. Wikipedia, [Consensus](https://en.wikipedia.org/wiki/Consensus_(computer_science))

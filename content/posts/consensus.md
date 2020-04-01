@@ -1,6 +1,6 @@
 ---
 title: "🔌 • consensus: a beautiful problem in distributed systems"
-date: 2019-04-01T12:33:04-05:00
+date: 2019-04-02T12:33:04-05:00
 draft: true
 ---
 
@@ -111,3 +111,5 @@ In a future post, I'll begin talking about one of these real world solutions, [R
 1. Indranil Gupta (Indy), UIUC CS425, [Lecture A: The Consensus Problem](https://courses.engr.illinois.edu/cs425/fa2018/L14.C3.FA18.pdf)
 1. Fischer et. al., [Impossibility of Distributed Consensus with One Faulty Process](https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf)
 2. Wikipedia, [Consensus](https://en.wikipedia.org/wiki/Consensus_(computer_science))
+
+{{< pageend "🔌">}}

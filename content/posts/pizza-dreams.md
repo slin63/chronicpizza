@@ -47,3 +47,4 @@ Reality and dreams are often indistinguishable. Dreams often require active effo
 
 That joy is the product of no sad ideation, but the joy of recognizing the pleasure that our bodies can bring to us. That joy is my brain dropping in to remind me that to be alive is to feel good; to make sure that I don't forget the feeling.
 
+{{< pageend "💭" >}}

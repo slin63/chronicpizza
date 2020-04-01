@@ -1,6 +1,6 @@
 ---
-title: "🌿 • costa rica"
-date: 2019-04-03T22:42:24-05:00
+title: "🌿 • cos·ta·ri·ca"
+date: 2019-04-05T22:42:24-05:00
 draft: true
 ---
 {{% imagelink %}}/images/costa/header.jpeg{{% /imagelink %}}
@@ -16,7 +16,7 @@ plates of casado served close to the trees, later, fresh fish butter-fried and s
 
 boat rides over lakes, bus trips, through open mountains, up, down, and through the clouds, motion sickness & love,
 {{% /right %}}
-salty ocean, holding me up & tossing me around, bright sunlight & sand in your eyes,
+salty ocean, holding me up & tossing me around, bright sunlight & sand in your eyes and against your back,
 
 monkeys howling through the night and long into the morning, starlight reflected in the waves,
 
@@ -53,5 +53,15 @@ more casado{{% /leftPad %}}
 {{% newline %}}
 
 {{% imagelink %}}/images/costa/1.jpeg{{% /imagelink %}}
-{{% caption %}} walking {{% /caption %}}
+{{% caption %}} walking, lake in the distance {{% /caption %}}
 {{% newline %}}
+
+{{% imagelink %}}/images/costa/b1.jpg{{% /imagelink %}}
+{{% caption %}} walking, beach in the foreground {{% /caption %}}
+{{% newline %}}
+
+{{% imagelink %}}/images/costa/b2.jpg{{% /imagelink %}}
+{{% caption %}} walking, {{% /caption %}}
+{{% newline %}}
+
+{{< pageend "🌿">}}

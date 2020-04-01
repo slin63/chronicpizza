@@ -102,3 +102,4 @@ Witness the passing of a year, a decade, a century, a millennia, countless death
 
 nonetheless, love is as you would expect: a lust for life and the unimportant absence of both cruel and wise thoughts.
 
+{{< pageend "⛰">}}

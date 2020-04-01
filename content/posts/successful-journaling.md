@@ -88,3 +88,5 @@ Now for my favorite part. A fully digital and searchable summary of my year. Cur
 
 ![](/images/successful-journaling/1.png)
 {{% caption %}}fact: you can see my journal from space{{% /caption %}}
+
+{{< pageend "📝">}}

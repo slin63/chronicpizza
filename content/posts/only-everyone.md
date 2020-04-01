@@ -3,7 +3,7 @@ title: "⛰ • only everyone: a collection of short writings"
 date: 2020-03-29T12:47:43-05:00
 draft: false
 ---
-
+{{% imagelink %}}/images/onlyeveryone/1.jpg{{% /imagelink %}}
 # *american interior • 10.30.17*
 We drove out across the border, out away from the snow blanketed mountains and sheer rock walls, away from the infinite pines and the lovely little caribou that sat in the road for whom we waited to cross.
 
@@ -59,13 +59,13 @@ Goodbye home, beautiful eagle screech in the canyon and dusty mountains. Goodbye
 ---
 # *tuesday, may 24th • 05.24.16*
 
-why am I so afraid of your bare skin; of that great beauty I embarrassingly obsess and callus after? 
+why am I so afraid of your bare skin; of that great beauty I embarrassingly obsess and callus after?
 
-Is it that ultimate sin, the great overwhelming-ness of emotion I feel around you and that wild unseemly lust that claws desperately at my throat in times of urgency and despair whenever you say something irrevocably sweet or sad or infinitesimally minuscule or hardly worth worrying about?: that truth that begs to be released; the untimely desire and fire in me. 
+Is it that ultimate sin, the great overwhelming-ness of emotion I feel around you and that wild unseemly lust that claws desperately at my throat in times of urgency and despair whenever you say something irrevocably sweet or sad or infinitesimally minuscule or hardly worth worrying about?: that truth that begs to be released; the untimely desire and fire in me.
 
 I wonder who feels that same heat and I wonder if you are on the list of tired and worn keepers. It feels like the slipping away of sand through your fingers and bits of your soul through your ribs. I obsess wildly on the possibilities… that if you and I are the same maybe it could work, or most definitely it would work! Or, at the very least, we might get what we want; some kind of disparate-less closure (whatever that may mean then).
 
-Still, the look I’ve seen in your eyes and the fire I’ve felt in my heart, the binding blunders of the tongue and careless passes of your gaze over mine and the brief touches of hands and the loneliness we burn away together: the temptation to proclaim affection and render the room silent for a brief while and set the two of us apart for a brief while or maybe slip deeper into a hole of bloodless affection and joy … I would make no effort to escape its satin grip and delicate hold. 
+Still, the look I’ve seen in your eyes and the fire I’ve felt in my heart, the binding blunders of the tongue and careless passes of your gaze over mine and the brief touches of hands and the loneliness we burn away together: the temptation to proclaim affection and render the room silent for a brief while and set the two of us apart for a brief while or maybe slip deeper into a hole of bloodless affection and joy … I would make no effort to escape its satin grip and delicate hold.
 
 Again, those clawing hands clasp at the entries and exits of my soul … through little peeps and moans and slips and embarrassing public confection-directions and songs I write and poems I write and the way I look at you and the eagerness with which I hold to love you.
 
@@ -83,7 +83,7 @@ but everyone feels the same fears;
 6. the-slipping-away-of-limitless-time-and-affection
 
 7. half-hearted:
-   
+
     (a) masturbation,
 
     (b) obligations,
@@ -91,12 +91,12 @@ but everyone feels the same fears;
     (c) intrepidations,
 
     (d) good-sensations,
-   
+
     (e) unruly-vibrations,
 
-coupled with timeless joy and memory. 
+coupled with timeless joy and memory.
 
-The touch of the woman you love. Complete with her flaws and cruel distastes, bad habits and foul moods; soft lips and soft “lips”, scents like fresh pine and bare fruit and irresistible beauty and light to warm your life: An experience shared rarely, that long lasting and seemingly infinite beauty that is Life! 
+The touch of the woman you love. Complete with her flaws and cruel distastes, bad habits and foul moods; soft lips and soft “lips”, scents like fresh pine and bare fruit and irresistible beauty and light to warm your life: An experience shared rarely, that long lasting and seemingly infinite beauty that is Life!
 
 Witness the passing of a year, a decade, a century, a millennia, countless deaths, births and other colorful exaggerations.
 

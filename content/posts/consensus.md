@@ -1,8 +1,10 @@
 ---
 title: "🔌 • consensus: a beautiful problem in distributed systems"
-date: 2020-04-01T12:33:04-05:00
+date: 2019-04-01T12:33:04-05:00
 draft: true
 ---
+
+{{% imagelink %}}/images/consensus/1.jpg{{% /imagelink %}}
 
 ## Consensus First Explained Rigorously, then Absurdly
 
@@ -19,7 +21,7 @@ Any responsive, non-failed process is called a *correct* process. The problem of
 - *Termination*: All correct processes must eventually return a value.
   - e.g. all banking computers wait for all other computers to decide whose balance it is rather than immediately accepting the first, potentially incorrect, name.
 
-Consensus exists everywhere around us. In all the websites that we use, in our home devices, our laptops and phones, even in our basic human interactions.
+Consensus exists everywhere around us. In all the websites that we use, in our home devices, our laptops and phones, even in our most basic human interactions.
 
 #### Absurdly
 
@@ -54,7 +56,7 @@ Consensus serves as the basis for countless problems inside distributed systems.
 - *Leader Election*: Agreeing on a single leader process and notifying the entire network of the new leader.
 - *Mutual Exclusion/Distributed Locking*: Allow only one process at a time to access a critical resource, such as a file.
 
-Any protocol for solving the basic problem of consensus, by extension, also can be leveraged to solve all of the above problems. Isn't that amazing?
+Any protocol for solving the basic problem of consensus, by extension, can also be leveraged to solve all of the above problems. Isn't that amazing?
 
 With so many great minds in the field of distributed computing, consensus must have so many great and proven solutions! Aren't you excited?
 

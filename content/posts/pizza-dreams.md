@@ -3,7 +3,7 @@ title: "💭 • on the value of dreams & chronic pain"
 date: 2020-03-30T19:35:10-05:00
 draft: false
 ---
-
+{{% imagelink %}}/images/pizzadreams/1.jpg{{% /imagelink %}}
 ## *brooklyn*
 Recently, I caught myself running from something. Not from something that I could see myself, but from something that I could see that everyone around me was running from. And so I ran with them. Everyone around me must've been really convincing, because I was *really* running. As I was running I thought about my situation. First, I thought about what I was running from.
 

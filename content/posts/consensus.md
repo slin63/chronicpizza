@@ -1,7 +1,7 @@
 ---
 title: "🔌 • consensus: a beautiful problem in distributed systems"
 date: 2020-04-02T12:33:04-05:00
-draft: true
+draft: false
 ---
 
 {{% imagelink %}}/images/consensus/1.jpg{{% /imagelink %}}

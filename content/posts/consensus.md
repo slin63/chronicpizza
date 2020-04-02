@@ -8,7 +8,7 @@ draft: false
 
 ## Consensus First Explained Rigorously, then Absurdly
 
-#### Rigorously
+#### First, Rigorously
 
 You have *N* processes in a network. These processes communicate with one another by sending messages. Messages are packets of information. Any of those processes may fail at any time, becoming unresponsive to incoming messages and not sending out any messages themselves.
 
@@ -23,9 +23,11 @@ Any responsive, non-failed process is called a *correct* process. The problem of
 
 Consensus exists everywhere around us. In all the websites that we use, in our home devices, our laptops and phones, even in our most basic human interactions.
 
-#### Absurdly
+People implement and exercise extremely convoluted solutions to far more rigorous forms of the consensus problem every day.
 
-People implement and exercise extremely convoluted solutions to far more rigorous forms of the consensus problem every day. Consider the following example.
+#### Now, Absurdly
+
+Consider the following example.
 
 - A group of friends must decide where to eat in New York, a city with roughly 26,618 eateries.
 

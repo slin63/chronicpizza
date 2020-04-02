@@ -1,6 +1,6 @@
 ---
 title: "🌿 • cos·ta·ri·ca"
-date: 2019-04-05T22:42:24-05:00
+date: 2020-04-05T22:42:24-05:00
 draft: true
 ---
 {{% imagelink %}}/images/costa/header.jpeg{{% /imagelink %}}

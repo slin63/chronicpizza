@@ -8,6 +8,8 @@ draft: false
 
 ---
 
+{{% imagelink %}}/images/byebye/1.png{{% /imagelink %}}
+
 I believe the story that I’m about to tell is one that everyone reading this already knows, because they have experienced it or are now in the middle of experiencing it themselves, and that many will have shared the memories I’m going to list with me or have memories and feelings that are not too different from mine. I’ll leave some of the details sparse; I know that many of you can use your own experiences to fill in the blanks.
 
 I’m leaving now, after 6 some years of undergrad, working, and more importantly, some 3ish years of being on the board. Writing out those numbers now, it doesn’t seem like such a long time. Maybe because “3 years on the board” doesn’t really describe the impact those 3 years had on my development, personality, values, how I treat perceive those around me, and my identity.

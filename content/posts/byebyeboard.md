@@ -191,7 +191,7 @@ I am very depressed.
 
 It takes me a very long time to get the proper surgery and treatment. I have another very long project about this time of my life; if you want the gory details:
 
-**[The Pizza Stands For Pain](https://chronicpizza.wordpress.com/2020/01/01/the-pizza-stands-for-pain/)**
+**[The Pizza Stands For Pain](/posts/pizza)**
 
 
 # *2019 Summer: North Manitou Island backpacking*

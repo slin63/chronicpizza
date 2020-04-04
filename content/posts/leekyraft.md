@@ -426,7 +426,11 @@ func applyCommits(idx int) *responses.Result {
 }
 ```
 
-It's not entirely clear *exactly* what the state machine does with Leeky Raft's entries. Some say that they are released into the physical world as spirit beings, searching until they find a suitable body in the form of a small bird or curious deer. Sometimes this happens quickly, and sometimes those souls are doomed from birth to wander until the end of time, resulting in a non-`nil` `err` from the RPC. Some say that the entries are string serialized instructions for a pizza delivery service. No one is exactly sure.
+It's not entirely clear *exactly* what the state machine does with Leeky Raft's entries. Some say that they are released into the physical world as spirit beings, searching until they find a suitable body in the form of a small bird or curious deer. Sometimes this happens quickly, and sometimes those souls are doomed from birth to wander until the end of time, resulting in a non-`nil` `err` from the RPC.
+
+Some say that the entries are string serialized instructions for a pizza delivery service.
+
+No one is exactly sure.
 
 Regardless of what they do, there is a certain beauty here. Since Leeky Raft does not actually do any of the work for applying state, it can be easily generalized to maintain state for *any* application that can have its state expressed as a series of log entries.
 
@@ -450,7 +454,7 @@ Oh! Looks like `applyCommits` has finish applying our `entry`. `digestCommits` s
 
 `*result = *<-commCh` is executed, since `digestCommits` sent a `Result` to `commCh`. This means that the RPC's reply value, `result` will now contain actual information about the `entry` that `raft-consensus_worker_3` was given so so long ago.
 
-`PutEntry`'s work here is done and lets the client know that nothing by returning `nil` as its error value.
+`PutEntry`'s work here is done and lets the client know that nothing went wrong by returning `nil` as its error value.
 
 The client sends a formatted response to our Figure's `STDOUT`.
 

@@ -1,7 +1,7 @@
 ---
 title: "🌿 • cos·ta·ri·ca"
 date: 2020-04-05T22:42:24-05:00
-draft: true
+draft: false
 ---
 {{% imagelink %}}/images/costa/header.jpeg{{% /imagelink %}}
 {{% leftPad %}}a place of watery blues, sandy yellows, perfect greens, — wet light, foggy patches of perfection sitting besides & below the sun, dense rainforest:

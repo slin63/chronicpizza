@@ -2,6 +2,7 @@
 title: "📷 • mun·dan·i·ties"
 date: 2020-03-22T16:32:09-05:00
 draft: false
+tags: ["photography", "writing"]
 ---
 {{% focusText %}} the condition or quality of being mundane; common; ordinary; banal; unimaginative. {{% /focusText %}}
 Mundaneness is one of my favorite photographic subjects. Nothing grabs me more than a scene of a place that is empty, boring, unassuming. Places with few people, few things. Places that can be left and returned to many months later without much having changed besides the person returning to them.

@@ -2,6 +2,7 @@
 title: "⛰ • only everyone: a collection of short writings"
 date: 2020-03-29T12:47:43-05:00
 draft: false
+tags: ["writing"]
 ---
 {{% imagelink %}}/images/onlyeveryone/1.jpg{{% /imagelink %}}
 # *american interior • 10.30.17*

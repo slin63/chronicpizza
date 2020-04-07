@@ -2,6 +2,7 @@
 title: "💭 • on the value of dreams & chronic pain"
 date: 2020-03-30T19:35:10-05:00
 draft: false
+tags: ["pizza", "writing"]
 ---
 {{% imagelink %}}/images/pizzadreams/1.jpg{{% /imagelink %}}
 ## *brooklyn*

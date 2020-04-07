@@ -2,6 +2,7 @@
 title: "👋 • goodbye, OAC executive board"
 date: 2020-02-14T12:53:31-05:00
 draft: false
+tags: ["writing"]
 ---
 
 *Context: This is a letter I wrote to my outdoors club executive board while sleep deprived flying away from where my outdoors club executive board is located, in Urbana, IL.*

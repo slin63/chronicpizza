@@ -2,6 +2,7 @@
 title: "🔌 • leeky raft: a fantastical consensus layer"
 date: 2020-04-03T16:00:25-05:00
 draft: false
+tags: ["tech"]
 ---
 
 {{% imagelink %}}/images/leekyraft/1.png{{% /imagelink %}}

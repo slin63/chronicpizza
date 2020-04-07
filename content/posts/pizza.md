@@ -2,6 +2,7 @@
 title: "🍕 • the pizza stands for pain"
 date: 2020-01-01T12:45:21-05:00
 draft: false
+tags: ["pizza", "writing"]
 ---
 
 ![](/images/pizza/header.png)

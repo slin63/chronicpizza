@@ -13,11 +13,19 @@ name = "about me"
 url  = "/about"
 weight = 5
 
+[[menu.main]]
+name = "tags"
+url  = "/tags"
+weight = 5
+
+[Author]
+  name = "knoppers"
+
+
 [params]
 subtitle = "tech, nature, chronic pain"
 favicon = "/images/favico.png"
 referrer = "always"
-author = "chronic pizza"
 description = "pizza pizza"
 
 [markup]

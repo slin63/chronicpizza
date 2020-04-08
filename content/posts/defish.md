@@ -47,7 +47,7 @@ My knees feel good. The ground here is soft. Not so much pain for me to worry ab
 
 Squirrels chitter and bees buzz, wild chives grow dense in the grass in my yard and in public parks, I walk the same paths forever. Deer stand in the brush and watch me from far away.
 
-## my distributed filesystem: thank god it's over
+## *my distributed filesystem: thank god it's over*
 
 Enough about Urbana! Who cares.
 

@@ -9,13 +9,11 @@ tags: ["tech", "writing"]
 
 ## *brooklyn & recurse center*
 
-After roughly 2 and a half-some months of work, learning about the fundamentals of distributed systems in noisy cafés in Urbana, IL, then learning about the fundamentals of distributed systems at Recurse Center in Brooklyn, NY, while also balancing the dangerous act of being unemployed, having too much time, moving to a new city, and moving out of that new city fleeing the oncoming pandemic not even a month later back to the small town that you told everyone you would never come back to, I finished building the thing I originally intended to finish building . . . earlier. Along this journey I learned about the beauty of
+After roughly 2 and a half-some months of work, learning about the fundamentals of distributed systems in noisy cafés in Urbana, IL, then learning about the fundamentals of distributed systems at Recurse Center in Brooklyn, NY, while also balancing the dangerous act of being unemployed, having too much time, moving to a new city, and moving out of that new city fleeing the oncoming pandemic not even a month later back to the small town that I told everyone I would never come back to, I finished building the thing I originally intended to finish building . . . earlier. Along this journey I learned about the beauty of
 
 - just how bad dollar pizza can be
-- how much my friends really love me
 - how important good logging is to debugging asynchronous systems
 - the problem of [distributed consensus](/posts/consensus)
-- how important good design is for successfully building even the smallest of distributed systems
 - when to avoid eye contact with people on the subway
 - how to present technical & comedic content to an audience in an engaging way that lets my personality shine through (thank you Recurse Center nontech/tech talks/this blog)
 - when to stare at people on the subway
@@ -28,11 +26,8 @@ I wouldn't have met so many amazing people who gave me the inspiration to pursue
 
 I wouldn't have gotten the experience of living in Brooklyn, something  completely unlike anywhere I've lived before. A place where:
 
-- you have to go up four flights of stairs to go home, down those same four flights to do laundry, back up those same four flights again while your laundry's going, and back down those same four flights to move stuff to the dryer, and so on
 - you can get any food you want, but still end up only eating Japanese, peanut butter, and cereal for a month
 - it always smells faintly of urine, no matter what the time of day or where you are
-- once you lose something, you know it's gone for good
-- nobody looks like anyone and everyone is from everywhere
 - amazing people are always within reach and always willing to talk
 
 (Am I enumerating things too much? I don't care. Nobody's going to read this!)
@@ -47,13 +42,11 @@ My knees feel good. The ground here is soft. Not so much pain for me to worry ab
 
 Squirrels chitter and bees buzz, wild chives grow dense in the grass in my yard and in public parks, I walk the same paths forever. Deer stand in the brush and watch me from far away.
 
-## *my distributed filesystem: thank god it's over*
-
 Enough about Urbana! Who cares.
 
 COMPUTERS! **LOOK WHAT *I'VE DONE!***
 
-##  Chord-ish De-Fish
+##  Chord-ish De-Fish: *thank god it's over*
 
 ###  <img src="/images/defish/fish.png" style="width:50%;" />
 

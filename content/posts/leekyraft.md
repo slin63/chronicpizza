@@ -312,8 +312,10 @@ type commitC struct {
   C   chan *responses.Result
 }
 
-  func (f *Ocean) PutEntry(
-  . . .
+func (f *Ocean) PutEntry(
+  entry string,
+  result *responses.Result,
+) {
   select {
   case r := <-entryCh:
     r.Entry = entry
@@ -361,15 +363,15 @@ You continue to hit the machine hosting `raft-consensus_worker_3` with a hammer.
 `raft-consensus_worker_1` decides the only right thing to do is to carry on `raft-consensus_worker_3`'s legacy. They set their role to candidate and send out `RequestVote` RPCs to all remaining nodes that you aren't hitting with a hammer and awaits their votes. It is unanimous. `raft-consensus_worker_1` wins the election and becomes the new leader.
 
 ```go
-introducer exited with code 137 // Leader dies
-worker_2 | 20:51 [ELECTTIMEOUT]
-worker_2 | 20:51 [ELECTION->]: Starting election [TERM=2]
-worker_2 | 20:51 [ELECTION->]: Starting election 2
-worker_1 | 20:51 [<-ELECTION]: [ME=225] GRANTED RequestVote for 570
-worker_3 | 20:51 [<-ELECTION]: [ME=904] GRANTED RequestVote for 570
-worker_2 | 20:51 [CANDIDATE]: Processing results. 1/2 needed
-worker_2 | 20:51 [CANDIDATE]: QUORUM received (2/2)
-worker_2 | 20:51 [CANDIDATE->LEADER] [ME=570] [TERM=2] Becoming leader
+raft-consensus_worker_3 exited with code 137 // Leader dies
+raft-consensus_worker_1 | 20:51 [ELECTTIMEOUT]
+raft-consensus_worker_1 | 20:51 [ELECTION->]: Starting election [TERM=2]
+raft-consensus_worker_1 | 20:51 [ELECTION->]: Starting election 2
+raft-consensus_worker_2 | 20:51 [<-ELECTION]: [ME=225] GRANTED RequestVote for 570
+raft-consensus_worker_3 | 20:51 [<-ELECTION]: [ME=904] GRANTED RequestVote for 570
+raft-consensus_worker_1 | 20:51 [CANDIDATE]: Processing results. 1/2 needed
+raft-consensus_worker_1 | 20:51 [CANDIDATE]: QUORUM received (2/2)
+raft-consensus_worker_1 | 20:51 [CANDIDATE->LEADER] [ME=570] [TERM=2] Becoming leader
 ```
 
 Our entry sits, untouched, in `raft-consensus_worker_1`'s log. After some time, `raft-consensus_worker_1` realizes that it needs to be applied, and passes it to `applyCommits` as we described earlier.
@@ -387,7 +389,7 @@ Let's pick up there.
 3. starts iterating through that range of indices, for each one
    1. grabbing the string entry of the index by doing `entry = raft.Log[index]`
    1. calling a `Filesystem.Execute` RPC to our state machine process, with the string entry as the sole argument, waiting to crash on an error and proceeding if none is present
-   1. checks if the currently processed index is the one it was originally asked to process, and, if so, caching the result to return later.
+   1. checks if the currently processed index is the one it was originally asked to process, and, if so, storing the result to return later.
    1. setting `CommitIndex` to equal the last successfully processed index
 
 ```go

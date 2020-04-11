@@ -1,5 +1,5 @@
 ---
-title: "⛈ • spring storms & magnolias"
+title: "⛈ • spring·storms & mag·no·li·as"
 date: 2020-04-11T20:02:25-05:00
 draft: false
 tags: ["photography", "writing"]
@@ -14,6 +14,7 @@ tags: ["photography", "writing"]
             object-position: 20% 70%;
         " />
 </a>
+{{% newline %}}
 {{% leftPad %}}
 spring storms,
 

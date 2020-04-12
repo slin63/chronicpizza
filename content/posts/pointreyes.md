@@ -37,7 +37,7 @@ a raccoon tries stealing my dinner
 
 
 {{% imagelink %}}/images/pointreyes/banner.jpg{{% /imagelink %}}
-{{% caption %}} my favorite; just before i met the raccoon {{% /caption %}}
+{{% caption %}} my favorite; just before I met the raccoon {{% /caption %}}
 {{% newline %}}
 
 
@@ -74,7 +74,7 @@ a raccoon tries stealing my dinner
 {{% newline %}}
 
 {{% imagelink %}}/images/pointreyes/8.jpg{{% /imagelink %}}
-{{% caption %}} the sun, setting {{% /caption %}}
+{{% caption %}} looking, {{% /caption %}}
 {{% newline %}}
 
 {{% imagelink %}}/images/pointreyes/fern.jpg{{% /imagelink %}}
@@ -114,21 +114,22 @@ a raccoon tries stealing my dinner
 
 {{% leftPad %}}
 ## *camera / gear / method*:
-nikon d3400 DSLR with:
-  - 1.8 35mm (fast prime)
-  - 3.5/5.6 16-85mm (general purpose zoom, doubles as barbell because it weighs more than the 35mm and d3400 combined)
+nikon d3400 DSLR & tripod with:
+  - 1.8 35mm (fast prime, my baby!)
+  - 3.5/5.6 16-85mm (general purpose zoom, doubles as barbell because it weighs more than the 35mm and d3400 combined), used with polarizing filter for high contrast landscapes
   - 4/5.6 70-300mm (also heavy; I only used this once. not sure why I brought it)
 
+{{% newline %}}
 {{% imagelink %}}/images/pointreyes/me.jpg{{% /imagelink %}}
 {{% caption %}} my stuff {{% /caption %}}
 {{% newline %}}
 
 *most* images were shot with the 35mm. wide angle shots were achieved by taking horizontally tracking shots with the 35mm on a tripod and stitching them together with <a href="http://matthewalunbrown.com/autostitch/autostitch.html">autostitch</a>.
 
-this allowed me to take wide-angle shots like *"long, moss, lichens"* while still having substantial background blurring.
+this allowed me to take wide-angle shots like *"long, moss, lichens"* while still having substantial background blurring. these are my favorites.
 
-minimal color correction: any editing was only intended to make captured colors more true to life.
 
+{{% newline %}}
 {{% imagelink %}}/images/pointreyes/hehe.jpg{{% /imagelink %}}
 {{% caption %}} my rig {{% /caption %}}
 {{% newline %}}

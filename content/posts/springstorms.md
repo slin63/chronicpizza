@@ -19,7 +19,7 @@ tags: ["photography", "writing"]
 spring storms,
 
 the smell of wood stoves, warm wind and the sound of
-leaves rustling in the wind, crickets, the sound of open windows
+leaves rustling, crickets, open windows
 
 {{% right %}}
 green ferns pushing through the ground, long evenings.

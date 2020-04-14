@@ -1,7 +1,7 @@
 ---
-title: "🌊 • point·reyes"
+title: "🌊 • alone in point·reyes"
 date: 2020-04-14T13:48:16-05:00
-draft: true
+draft: false
 tags: ["photography", "writing"]
 ---
 
@@ -40,25 +40,8 @@ a raccoon tries stealing my dinner
 {{% caption %}} my favorite; just before I met the raccoon {{% /caption %}}
 {{% newline %}}
 
-
-{{% imagelink %}}/images/pointreyes/2.jpg{{% /imagelink %}}
-{{% caption %}} young coprinellus micaceus coated in their distinct reflective cells {{% /caption %}}
-{{% newline %}}
-
-{{% imagelink %}}/images/pointreyes/3.jpg{{% /imagelink %}}
-{{% caption %}} fruticose lichens on a giant rock structure {{% /caption %}}
-{{% newline %}}
-
 {{% imagelink %}}/images/pointreyes/branch1.jpg{{% /imagelink %}}
 {{% caption %}} moss, lichens, long {{% /caption %}}
-{{% newline %}}
-
-{{% imagelink %}}/images/pointreyes/6.jpg{{% /imagelink %}}
-{{% caption %}} rocks, on the beach {{% /caption %}}
-{{% newline %}}
-
-{{% imagelink %}}/images/pointreyes/branch2.jpg{{% /imagelink %}}
-{{% caption %}} long, moss, lichens {{% /caption %}}
 {{% newline %}}
 
 {{% imagelink %}}/images/pointreyes/beach.jpg{{% /imagelink %}}
@@ -73,6 +56,7 @@ a raccoon tries stealing my dinner
 {{% caption %}} a fat bird {{% /caption %}}
 {{% newline %}}
 
+
 {{% imagelink %}}/images/pointreyes/8.jpg{{% /imagelink %}}
 {{% caption %}} looking, {{% /caption %}}
 {{% newline %}}
@@ -81,16 +65,36 @@ a raccoon tries stealing my dinner
 {{% caption %}} fern {{% /caption %}}
 {{% newline %}}
 
+{{% imagelink %}}/images/pointreyes/branch2.jpg{{% /imagelink %}}
+{{% caption %}} long, moss, lichens {{% /caption %}}
+{{% newline %}}
+
 {{% imagelink %}}/images/pointreyes/5.jpg{{% /imagelink %}}
 {{% caption %}} walking, {{% /caption %}}
+{{% newline %}}
+
+{{% imagelink %}}/images/pointreyes/3.jpg{{% /imagelink %}}
+{{% caption %}} fruticose lichens on a rock {{% /caption %}}
 {{% newline %}}
 
 {{% imagelink %}}/images/pointreyes/t1.jpg{{% /imagelink %}}
 {{% caption %}} walking, walking, {{% /caption %}}
 {{% newline %}}
 
+{{% imagelink %}}/images/pointreyes/6.jpg{{% /imagelink %}}
+{{% caption %}} rocks, on the beach {{% /caption %}}
+{{% newline %}}
+
 {{% imagelink %}}/images/pointreyes/t2.jpg{{% /imagelink %}}
 {{% caption %}} tunnel, perfect green {{% /caption %}}
+{{% newline %}}
+
+{{% imagelink %}}/images/pointreyes/2.jpg{{% /imagelink %}}
+{{% caption %}} young coprinellus micaceus coated in their distinct reflective cells {{% /caption %}}
+{{% newline %}}
+
+{{% imagelink %}}/images/pointreyes/tallmoss.jpg{{% /imagelink %}}
+{{% caption %}} moss, tall {{% /caption %}}
 {{% newline %}}
 
 {{% imagelink %}}/images/pointreyes/t3.jpg{{% /imagelink %}}
@@ -99,6 +103,10 @@ a raccoon tries stealing my dinner
 
 {{% imagelink %}}/images/pointreyes/t4.jpg{{% /imagelink %}}
 {{% caption %}} hello, ocean {{% /caption %}}
+{{% newline %}}
+
+{{% imagelink %}}/images/pointreyes/shroom.jpg{{% /imagelink %}}
+{{% caption %}} hello, mushroom {{% /caption %}}
 {{% newline %}}
 
 {{% imagelink %}}/images/pointreyes/t5.jpg{{% /imagelink %}}
@@ -113,7 +121,7 @@ a raccoon tries stealing my dinner
 {{% caption %}} goodnight {{% /caption %}}
 
 {{% leftPad %}}
-## *camera / gear / method*:
+## *gear / method*:
 nikon d3400 DSLR & tripod with:
   - 1.8 35mm (fast prime, my baby!)
   - 3.5/5.6 16-85mm (general purpose zoom, doubles as barbell because it weighs more than the 35mm and d3400 combined), used with polarizing filter for high contrast landscapes
@@ -124,9 +132,9 @@ nikon d3400 DSLR & tripod with:
 {{% caption %}} my stuff {{% /caption %}}
 {{% newline %}}
 
-*most* images were shot with the 35mm. wide angle shots were achieved by taking horizontally tracking shots with the 35mm on a tripod and stitching them together with <a href="http://matthewalunbrown.com/autostitch/autostitch.html">autostitch</a>.
+most images were shot with the 35mm. wide angle shots were achieved by taking horizontally tracking shots with the 35mm on a tripod and stitching them together with <a href="http://matthewalunbrown.com/autostitch/autostitch.html">autostitch</a>.
 
-this allowed me to take wide-angle shots like *"long, moss, lichens"* while still having substantial background blurring. these are my favorites.
+this allowed me to take wide-angle shots like *"long, moss, lichens"* while still having substantial background blurring. these shots are my favorite.
 
 
 {{% newline %}}

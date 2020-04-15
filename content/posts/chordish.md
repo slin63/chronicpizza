@@ -188,10 +188,17 @@ Using Chord-ish's suspicion mechanism, while *F* is down nodes are still activel
 
 ### Summary
 
-Chord-ish is a membership layer that can tolerate random failures and membership changes with relative ease, as long as you don't try to use it to actually do anything. It was a great learning experience and my first big Golang project. There are many things about it that I'm not proud of. But there are a lot of things about it that I am.
+Chord-ish is a membership layer that uses consistent hashing to assign nodes to a point on a virtual ring. Consistent hashing allows us to scale the number of nodes arbitrarily, without needing to rehash existing values.
 
-The end.
+Those nodes then communicate with one another by heartbeating to their successors and predecessors. Nodes can also identify other node failures by tracking the time between heartbeats. Information about node memberships and failures are piggybacked on heartbeats, allowing information to spread quickly through a group.
 
+Chord-ish can tolerate random failures and membership changes with relative ease, given enough time between failures and that the core "introducer" node stays alive. 
 
+Chord-ish can be used as the membership layer underneath a different distributed system, as I did when building Chord-ish DeFish. If you're curious about Chord-ish's role in that system, you can read all about that in the links below.
+
+- [github.com/slin63/chord-dfs](https://github.com/slin63/chord-dfs#in-a-nutshell)
+- [leeky raft: a fantastical consensus layer](/posts/leekyraft)
+
+Thanks for reading!
 
 {{< pageend "🔌">}}

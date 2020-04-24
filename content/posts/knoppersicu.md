@@ -5,8 +5,8 @@ draft: false
 tags: ["tech", "photography"]
 ---
 
-[![](/images/knoppersicu/banner.jpg)](http://www.knoppers.icu)
-{{% newline %}}
+{{% imagelink %}}/images/knoppersicu/banner.jpg{{% /imagelink %}}
+{{% caption %}}<a href="http://www.knoppers.icu">knoppers.icu</a>{{% /caption %}}
 
 ## Preface
 
@@ -159,5 +159,10 @@ Now we have . . .
 It was a pain, but it was worth it.
 
 It's nice to have nice things.
+
+##### git:
+website: [github.com/slin63/knoppers-icu](https://github.com/slin63/knoppers-icu)
+
+website-generator: [github.com/slin63/s3-page-generator](https://github.com/slin63/s3-page-generator)
 
 {{% pageend %}}

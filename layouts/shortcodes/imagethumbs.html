@@ -1,0 +1,6 @@
+{{ $url := .Get 0 }}
+{{ $thumbnail := replace (.Get 0) ".jp" "_thumbs.jp" }}
+<a href="{{$url}}">
+    <img src="{{$thumbnail}}">
+</a>
+

@@ -1,0 +1,14 @@
+{{ $url := .Get "url" }}
+{{ $thumbnail := replace $url ".jp" "_thumbs.jp" }}
+
+<a href={{$url}}>
+    <img
+        src="{{$thumbnail}}"
+        style="
+            height:{{.Get "height"}};
+            width:{{.Get "width"}};
+            object-fit:cover;
+            object-position: {{.Get "x"}}% {{.Get "y"}}%;
+        " />
+</a>
+

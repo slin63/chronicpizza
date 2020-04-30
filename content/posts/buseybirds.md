@@ -2,7 +2,7 @@
 title: "🕊️ • bu·sey·birds"
 date: 2020-04-18T20:06:29-05:00
 draft: false
-tags: ["photography"]
+tags: ["photography", "birds"]
 ---
 
 <a href="/images/buseybirds/whitebreastednuthatch1.jpg">

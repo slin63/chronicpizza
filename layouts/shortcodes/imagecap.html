@@ -1,0 +1,17 @@
+{{ $url := .Get "url" }}
+{{ $thumbnail := replace ($url) ".jp" "_thumbs.jp" }}
+{{ $caption := .Get "caption" }}
+
+</br>
+<a href="{{$url}}">
+    <img src="{{$thumbnail}}">
+</a>
+<div
+    style="
+        text-align: center;
+        font-size: 0.9em;
+        margin: 0 5em 0 5em;
+    "
+>
+<i>{{$caption}}</i>
+</div>

@@ -5,9 +5,9 @@ draft: false
 tags: ["writing"]
 
 ---
-<a href="/images/firebox/header.png">
+<a href="/images/firebox/header.jpeg">
     <img
-        src="/images/firebox/header.png"
+        src="/images/firebox/header.jpeg"
         style="
             height:200px;
             width:100%;
@@ -37,7 +37,7 @@ From my own experience and knowledge, I try and place him somewhere on the weste
 But none of that helps me create a name for him, and so he remains *Firebox stove guy*.
 
 {{% newline %}}
-{{% imagelink %}}/images/firebox/name.png{{% /imagelink %}}
+{{% imagelink %}}/images/firebox/name.jpeg{{% /imagelink %}}
 {{% caption %}}honestly . . . i feel that might actually be his real name{{% /caption %}}
 {{% newline %}}
 
@@ -60,7 +60,7 @@ Firebox stove guy is with his family. Firebox stove guy is with his dogs and goa
 Firebox stove guy is happy.
 
 {{% newline %}}
-{{% imagelink %}}/images/firebox/scene.png{{% /imagelink %}}
+{{% imagelink %}}/images/firebox/scene.jpeg{{% /imagelink %}}
 {{% caption %}}a typical day for firebox stove guy{{% /caption %}}
 {{% newline %}}
 
@@ -74,7 +74,7 @@ Viewers primarily hear the sound of boots on gravel and dirt, bear bells attache
 
 
 {{% newline %}}
-{{% imagelink %}}/images/firebox/dogcoat.png{{% /imagelink %}}
+{{% imagelink %}}/images/firebox/dogcoat.jpeg{{% /imagelink %}}
 {{% caption %}}yes, his dog wears a coat, it's one of the best parts{{% /caption %}}
 {{% newline %}}
 

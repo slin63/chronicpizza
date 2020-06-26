@@ -45,7 +45,7 @@ we plop down the trail, shoes soaked spirits high, with too little peanut butter
 
 {{<
     imagecap
-    url="https://s3.amazonaws.com/cdn.knoppers.icu/westvirginia/DSC_5549.jpg"
+    url="https://s3.amazonaws.com/cdn.knoppers.icu/westvirginia/DSC_5540.jpg"
     caption="the sun rising over monongahela national forest"
 >}}
 
@@ -124,7 +124,7 @@ we plop down the trail, shoes soaked spirits high, with too little peanut butter
 {{<
     imagecap
     url="https://s3.amazonaws.com/cdn.knoppers.icu/westvirginia/pano2.jpg"
-    caption="storm and sunshine rolling over monongahela"
+    caption="storm and sunshine rolling over monongahela *"
 >}}
 
 
@@ -216,7 +216,15 @@ we plop down the trail, shoes soaked spirits high, with too little peanut butter
 {{<
     imagecap
     url="https://s3.amazonaws.com/cdn.knoppers.icu/westvirginia/pano5.jpg"
-    caption="a rushing stream"
+    caption="a rushing stream *"
 >}}
+
+## *gear / method*:
+nikon d3400 with the 1.8g 35mm (fast prime, my baby!)
+
+<b>*:</b> these images are panoramas that were hand shot and combined with <a href="http://matthewalunbrown.com/autostitch/autostitch.html">autostitch</a>. they have stupid high resolution,  click on them and check it out!
+
+complete albums available at
+- http://knoppers.icu/posts/westvirginia/
 
 {{% pageend %}}

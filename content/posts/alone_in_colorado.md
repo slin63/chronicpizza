@@ -1,5 +1,5 @@
 ---
-title: "🏔️ • alone in colorado"
+title: "🏔️ • alone in co·lo·ra·do"
 date: 2020-06-28T13:04:52-05:00
 draft: true
 tags: ["photography", "writing"]
@@ -39,10 +39,17 @@ precarious trails, sudden lightning storms, books to read, wet shoes (always)
 , views down from the eastern mountain pass into island lakes revealing even more pristine wilderness and nested valleys and lakes and mountain tops
 
 {{% right %}}
-crawling up sand dunes on all fours with wind whipping sand into my eyes and fritos to eat at the very top, the sun setting over the horizon and the storm passing behind me
+save for crawling up sand dunes on all fours with wind whipping sand into my eyes and fritos to eat at
+ the very top, the sun setting over the horizon and the storm passing behind me,
 {{% /right %}}
 
-yes, yes
+{{% center %}}
+with golden sunlight searing golden sand and golden corn chips,
+{{% /center %}}
+
+save for everything.
+
+
 
 {{% /leftPad %}}
 ---
@@ -73,8 +80,15 @@ yes, yes
 
 {{<
     imagecap
+    url="https://s3.amazonaws.com/cdn.knoppers.icu/coloradosolo/DSC_6640.jpg"
+    caption="yom, lonch"
+>}}
+
+
+{{<
+    imagecap
     url="https://s3.amazonaws.com/cdn.knoppers.icu/coloradosolo/DSC_6603.jpg"
-    caption="one of many bleached white bones placed next to trail markers"
+    caption="sunbleached bones placed next to a trail marker"
 >}}
 
 {{<
@@ -228,3 +242,5 @@ complete albums available at
 - http://knoppers.icu/posts/coloradosolopanos/
 
 {{% pageend %}}
+
+

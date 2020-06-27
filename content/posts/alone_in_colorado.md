@@ -1,7 +1,7 @@
 ---
 title: "🏔️ • alone in co·lo·ra·do"
-date: 2020-06-28T13:04:52-05:00
-draft: true
+date: 2020-06-27T13:04:52-05:00
+draft: false
 tags: ["photography", "writing"]
 ---
 

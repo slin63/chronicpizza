@@ -2,7 +2,7 @@
 title: "🏔 • alone in big·horn"
 date: 2020-07-31T12:55:24-07:00
 draft: false
-tags: ["photography", "writin"]
+tags: ["photography", "writing"]
 ---
 {{<
     imagethumbs-p

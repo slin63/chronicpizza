@@ -92,7 +92,7 @@ Alone, my mind created scenarios of people I knew dismissing the severity of my 
 
 # *September 2018*
 
-On my 22nd birthday I went to a party where I was bullied by a girl in a wheelchair into paying a $5 donation for entry into my friend’s house, which I’d never had to pay to get into before. There I drank, stood, and listened to loud music in an enclosed space: my 3 worst enemies. I went home shortly after.
+On my 22nd birthday I went to a party where I was bullied by the door guy into paying a $5 donation for entry into my friend’s house, which I’d never had to pay to get into before. There I drank, stood, and listened to loud music in an enclosed space: my 3 worst enemies. I went home shortly after.
 
 I laid in bed.
 

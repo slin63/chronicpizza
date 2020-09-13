@@ -79,7 +79,7 @@ Pain became so linked to the idea of my early death that I would have done anyth
 
 I would think “next month I’ll be healed,” and get nauseous seeing that next month had already come and nothing had changed. Googling my symptoms only served to make my heart race and my stomach turn.
 
-My healthcare providers I saw were of no help to me. Young people shouldn’t feel the way that I said that I was feeling. The magical _6 - 8 weeks + meloxicam + 800mg ibuprofen every 4 hours_ cocktail had no effect. I realized _patellofemoral pain syndrome_ is just fancy for “knee hurts for mysterious reasons”. Gel-syn injections did nothing but help me hit my deductible. __ My PA insisted an MRI would be useless and pushed for steroid injections which the internet told me would only decay my tendons and ligaments.
+My healthcare providers I saw were of no help to me. Young people shouldn’t feel the way that I said that I was feeling. The magical _6 - 8 weeks + meloxicam + 800mg ibuprofen every 4 hours_ cocktail had no effect. I realized _patellofemoral pain syndrome_ is just fancy for “knee hurts for mysterious reasons”. Gel-syn injections did nothing but help me hit my deductible. My PA insisted an MRI would be useless and pushed for steroid injections which the internet told me would only decay my tendons and ligaments.
 
 So I waited. And waited.
 
@@ -180,7 +180,7 @@ I ended up being able to return to work through the use of a very powerful and f
 
 Okay, back to my knees.
 
-It would be another 3 months after that appointment in San Francisco __ ‘till I had the surgery done by another great orthopedic surgeon in Chicago. My girlfriend came all the way in from New York to drive me to the operation. I gleefully signed a waiver saying that if I died during the operation it’d be on me. I changed into a gown that covered nothing and had these goofy looking booties that I had to put my feet through. I took one last good dump.
+It would be another 3 months after that appointment in San Francisco ‘till I had the surgery done by another great orthopedic surgeon in Chicago. My girlfriend came all the way in from New York to drive me to the operation. I gleefully signed a waiver saying that if I died during the operation it’d be on me. I changed into a gown that covered nothing and had these goofy looking booties that I had to put my feet through. I took one last good dump.
 
 My doctor came in to check on me before the operation and as he left to prepare, I heard him describing me to the rest of the medical staff as “the one that asks a lot of questions.” I laughed, because that’s exactly who I was. I made chit chat with all the medical staff and asked about how everything worked. Somebody put an IV in me. What felt like hundreds of people came in asking me the same few things:
 

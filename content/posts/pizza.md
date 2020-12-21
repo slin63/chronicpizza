@@ -27,13 +27,13 @@ They feel different.
 
 # *December - May 2018*
 
-I was barely 21. I had one semester of college left to finish my bachelors and a well-paying web developer job lined up that would start two months after I graduated. During those two months, I planned to go on a big road trip to New England with a girl that I had met earlier that year who I loved. She was willing to go anywhere, do anything. We would sleep in a tent. Together.
+I had one semester of college left to finish my bachelors and a well-paying web developer job lined up that would start two months after I graduated. During those two months, I planned to go on a big road trip to New England with a girl that I had met earlier that year who I loved.
 
 I spent most of my time at the student union, where I laid on luxurious, probably never washed, couches, listening to a playlist of music I curated specifically to help me fall asleep, reading my Kindle until I _did_ fall asleep, waking up sometime after, falling asleep again, until finally I decided to go home and sleep there. After half-assing all my classes the next day, I’d come back and do it again.
 
-I would ride my road bike in my neon spandex suits for hours at a time, obsessing over training metrics and preparing for collegiate and domestic races. I would race in towns with bad roads, bad weather, amidst groups of other racers packed so tightly together that you could barely see ahead of you, hitting potholes deep enough to swim or bury bodies in. Once it was raining so bad during a race that I threw down my glasses because they kept fogging up and obscuring my vision, only to suddenly become aware of all of the rocks and dirt that they had been keeping out of my eyes. (These things all felt good in the moment, but given a choice, I’m not sure if I would do them again.)
+I would ride my road bike in my neon spandex suits for hours at a time, obsessing over training metrics and preparing for collegiate and domestic races. I would race in towns with bad roads, bad weather, amidst groups of other racers packed so tightly together that you could barely see ahead of you, hitting potholes deep enough to swim or bury bodies in. Once it was raining so bad during a race that I threw down my glasses because they kept fogging up and obscuring my vision, only to suddenly become aware of all of the rocks that they had been keeping out of my eyes. (These things all felt good in the moment, but given a choice, I’m not sure if I would do them again.)
 
-I’d go on long road trips with friends for multi-day backpacking trips in remote areas with rough terrain and no cell phone service. I’d cook big meals with heavy cookware to share at potlucks, or be on my feet all day working as a bike mechanic at the local co-op.
+I’d go on long road trips with friends for backpacking trips in remote areas with rough terrain. I’d cook big meals with heavy cookware to share at potlucks, or be on my feet all day working as a bike mechanic at the local co-op.
 
 I’d walk the house dog, Snickers. I’d have an idea for a program or script and bust it out in one day with my stupid fast 160 WPM fingers.
 
@@ -59,7 +59,7 @@ Maybe they were the inspiration for an anxious thought, now and again, but never
 
 Mid-June I flew back into Chicago from my parents’ home in California, leaving adventure and my girlfriend behind to start my new job. I arrived at Economy Lot G sometime around the weird part of the midwestern summer early morning where you feel confused, terrible and it’s already really fucking hot.
 
-In the trunk of my car, the heat had melted a stick of deodorant into a puddle that touched or coated most everything else around it. The water that sat in the cooler had turned strange. My girlfriend was now very far away, and was going to be far away for a very long time. This all made me very sad. (Economy Lot G still makes me sad today, and I bet it elicits that same feeling from many other travelers). I started the drive home and cried a little, as I imagine most people do after going through ORD.
+In the trunk of my car, the heat had melted a stick of deodorant into a puddle that touched or coated most everything else around it. The water that sat in the cooler had turned strange. My girlfriend was now very far away, and was going to be far away for a very long time. This all made me very sad. (Economy Lot G still makes me sad today, and I bet many others feel the same). I started the drive home and cried a little, as I imagine most people do after going through ORD.
 
 Back home in Urbana I finally decided to give my knees a break. Strangely, the rest only made things worse. What was before an awkward awareness turned to outright pain. Walking was painful. Sitting was painful. Standing was painful. There was a new sensation, of tin foil crunching between my knee and my femur, of tiny needlings and catches and pops and heat which I had then barely known.
 

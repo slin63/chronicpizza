@@ -97,7 +97,7 @@ alt: trail portraits
 
 {{<
     imagecap
-    url="https://s3.amazonaws.com/cdn.knoppers.icu/coloradosolo/DSC_6969.jpg"
+    url="https://s3.amazonaws.com/cdn.knoppers.icu/coloradosolo/DSC_6985.jpg"
     caption="great sand dunes natl. park, co. (june)"
 >}}
 

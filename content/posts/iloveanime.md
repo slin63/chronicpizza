@@ -20,6 +20,7 @@ and put it to music?
 ---
 {{% newline %}}
 
+### music: night into day - louie zong
 
 ### featured (spoiled) anime:
 ```
@@ -34,6 +35,10 @@ the end of evangelion
 death note
 ```
 
-### music: night into day - louie zong
+### storyboards / planning:
+{{% imagelink %}}/images/anime/todo-4.jpg{{% /imagelink %}}
+{{% imagelink %}}/images/anime/todo-5.jpg{{% /imagelink %}}
+
+
 
 {{< pageend "❄">}}

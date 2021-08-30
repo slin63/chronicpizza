@@ -85,5 +85,5 @@ town
 ## *gear*:
 - camera: nikon n2020
 - film: kodak ultramax 400
-- lens: 50mm 1.8 prime
+- lens: 50mm 1.8
 {{< pageend >}}

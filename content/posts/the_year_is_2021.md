@@ -80,3 +80,10 @@ here are pictures from my mom's decades old nikon 2020 film camera
     caption="house HOUSE HOUSE HOUSE HOUSE HOUSE HOUSE HOUSE HOUSE HOUSE HOUSE HOUSE HOUSE"
 >}}
 
+{{% newline %}}
+
+## *gear*:
+- camera: nikon n2020
+- film: kodak ultramax 400 / cinestill 800t
+- lens: 50mm 1.8
+{{< pageend >}}

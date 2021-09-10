@@ -38,11 +38,13 @@ it's bird time buckle the fuck up
 CONTENT
 
 {{% newline %}}
+---
 
 ## *gear / method*:
-nikon d3400 DSLR & tripod with:
-  - 1.8 35mm (fast prime, my baby!)
-  - 3.5/5.6 16-85mm (general purpose zoom, doubles as barbell because it weighs more than the 35mm and d3400 combined), used with polarizing filter for high contrast landscapes
-  - 4/5.6 70-300mm (also heavy; I only used this once. not sure why I brought it)
+- camera: nikon n2020
+- film: portra 400
+- lenses:
+  - 24mm 2.8f
+  - 50mm
 
 {{< pageend >}}
